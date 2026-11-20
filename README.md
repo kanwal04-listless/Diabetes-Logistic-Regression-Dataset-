@@ -42,8 +42,8 @@ The model is evaluated on the held-out test set using:
 
 | Metric | Score |
 |---|---|
-| Accuracy | _add after running_ |
-| ROC AUC | _add after running_ |
+| Accuracy | 0.708 |
+| ROC AUC | 0.813 |
 
 ## How to Run
 
