@@ -1,4 +1,3 @@
-# Diabetes-Logistic-Regression-Dataset-
 # Diabetes Prediction with Logistic Regression
 
 A machine learning project that predicts whether a patient has diabetes using the Pima Indians Diabetes Dataset. It covers data cleaning, model training, and evaluation in a single Python script.
